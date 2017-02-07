@@ -1,0 +1,55 @@
+csurfer/pyheat,https://github.com/csurfer/pyheat
+Improving your code with container methods - Python Programming,https://python-programming.courses/code-mastery/improving-code-container-methods/
+Hacker's guide to Neural Networks,http://karpathy.github.io/neuralnets/
+jakevdp/PythonDataScienceHandbook,https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/README.md
+pandas-dev/pandas,https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+airbnb/superset,https://github.com/airbnb/superset
+lk-geimfari/awesomeo,https://github.com/lk-geimfari/awesomeo/blob/master/languages/PYTHON.md
+obachem/kmc2,https://github.com/obachem/kmc2?__hstc=36392319.c7989f645cc3265cd4938b505d0c5512.1482440390003.1482440390003.1482440390003.1&__hssc=36392319.1.1482440390003&__hsfp=259699018
+An Intuitive Explanation of Convolutional Neural Networks | Open Data Science,https://www.opendatascience.com/blog/an-intuitive-explanation-of-convolutional-neural-networks/
+Hidden features of Python,http://stackoverflow.com/questions/101268/hidden-features-of-python
+jwkvam/bowtie,https://github.com/jwkvam/bowtie
+Awesome Python,http://awesome-python.com/
+Introducing: fastparquet,https://www.continuum.io/blog/developer-blog/introducing-fastparquet
+An Interactive Tutorial on Numerical Optimization,http://www.benfrederickson.com/numerical-optimization/?imm_mid=0eb541&cmp=em-data-na-na-newsltr_20161207
+Data School,http://www.dataschool.io/
+Tweaking4All.com - MacOS X - ApplePi Baker - Prep SD-Cards for IMG or NOOBS,http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/
+Relative imports for the billionth time,http://stackoverflow.com/a/14132912/6661502
+Simple tool/library to visualize huge python dict,http://stackoverflow.com/a/15024168/6661502
+Advanced Analytics with Spark: Patterns for Learning from Data at Scale: Sandy Ryza, Uri Laserson, Sean Owen, Josh Wills: 9781491912768: Amazon.com: Books,https://www.amazon.com/Advanced-Analytics-Spark-Patterns-Learning/dp/1491912766
+DonJayamanne/pythonVSCode,https://github.com/DonJayamanne/pythonVSCode/wiki/Jupyter-Examples
+Visual Studio Code - Code Editing. Redefined,http://code.visualstudio.com/B?utm_expid=101350005-31.YsqwCVJESWmc4UCMDLsNRw.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F#hundreds-of-extensions
+rkern/line_profiler,https://github.com/rkern/line_profiler
+airbnb/knowledge-repo,https://github.com/airbnb/knowledge-repo
+Raspberry Pi Barcode Scanner in Python,https://medium.com/@yushulx/raspberry-pi-barcode-scanner-in-python-927839100c6b#.5qisvcyfn
+OSMnx: Python for Street Networks - Geoff Boeing,http://geoffboeing.com/2016/11/osmnx-python-street-networks/
+spaCy - spaCy,https://spacy.io/
+Stan ,http://mc-stan.org/
+CVonline: Image Databases,http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
+blue-yonder/tsfresh,https://github.com/blue-yonder/tsfresh
+Notebook on nbviewer,https://nbviewer.jupyter.org/github/knowsuchagency/mpb-sentiment-analysis-example/blob/master/index.ipynb
+from PyPi import *,https://repl.it/site/blog/python-import
+Writing Idiomatic Python Book,https://jeffknupp.com/writing-idiomatic-python-ebook/
+Python Knowledge Base,https://www.quantifiedcode.com/knowledge-base/
+Python 201 Book is Free for 48 hours • /r/Python,https://www.reddit.com/r/Python/comments/57xaud/python_201_book_is_free_for_48_hours/
+Functions | Microsoft Azure,https://azure.microsoft.com/en-us/services/functions/
+AWS Lambda - Serverless Compute,https://aws.amazon.com/lambda
+Microsoft/LightGBM,https://github.com/Microsoft/LightGBM/wiki/Experiments
+Powering geospatial analysis: public geo datasets now on Google Cloud,https://cloudplatform.googleblog.com/2016/10/powering-geospatial-analysis-public-geo-datasets-now-on-Google-Cloud.html
+Announcing YouTube-8M: A Large and Diverse Labeled Video Dataset for Video Understanding Research,https://research.googleblog.com/2016/09/announcing-youtube-8m-large-and-diverse.html?m=1
+Introducing the Open Images Dataset,https://research.googleblog.com/2016/09/introducing-open-images-dataset.html
+18 Free Exploratory Data Analysis Tools For People who don’t code so well,https://www.analyticsvidhya.com/blog/2016/09/18-free-exploratory-data-analysis-tools-for-people-who-dont-code-so-well/
+The Neural Network Zoo - The Asimov Institute,http://www.asimovinstitute.org/neural-network-zoo/
+Microsoft Azure Notebooks,https://notebooks.azure.com/
+PiBakery,http://www.pibakery.org/
+gnab/remark,https://github.com/gnab/remark
+cloudera/livy,https://github.com/cloudera/livy
+PyFlux,http://www.pyflux.com/
+I want anaconda, but not by default,https://y3l2n.wordpress.com/2016/09/03/i-want-anaconda-but-not-by-default/
+Setting up Sublime Text 3 for Full Stack Python Development - Real Python,https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/
+Oh My Zsh,http://ohmyz.sh/
+jond3k/ipynb_stripout,https://github.com/jond3k/ipynb_stripout
+code.gov,https://code.gov/
+apache/incubator-airflow,https://github.com/apache/incubator-airflow
+jond3k/ipynb_stripout,https://github.com/jond3k/ipynb_stripout
+List of 50+ Machine Learning APIs,http://www.datasciencecentral.com/profiles/blogs/list-of-50-machine-learning-apis
